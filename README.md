@@ -68,4 +68,4 @@ with three sentiment categories:
 - Develop a Streamlit web application
 
 ## Author
-Your Name
+Sarvesh Ghadi
